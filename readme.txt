@@ -49,7 +49,7 @@ Sonar参数初始化：
 
 SCVNFMV2 子程序，选择70%作为训练集，30%作为测试集
 
-membership-functions文件夹中包含将隶属度函数替换成三角形、钟形函数后，在Wind数据集上的实验程序。
+membership-functions文件夹中包含将隶属度函数替换成三角形、钟形、梯形函数后，在Wind数据集上的实验程序。
 
 
 
