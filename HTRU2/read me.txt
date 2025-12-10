@@ -1,9 +1,0 @@
-三个主要程序：
-ANCFIMM.m
-fully_1order.m
-MGNF.m
-
-用到的是LoadData_HTRU2
-
-主程序：
-D:\Documents\Matlab\full_higher_order\RealWorldDatasets\main_results
